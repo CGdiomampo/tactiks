@@ -1,0 +1,22 @@
+2018-05-15T12:40:10+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_real_escape_string() in /var/www/vhosts/tactiksconcepts.com/httpdocs/wp-content/themes/hourizon-core/functions/admin-interface.php:111
+Stack trace:
+#0 /var/www/vhosts/tactiksconcepts.com/httpdocs/wp-includes/class-wp-hook.php(286): woothemes_add_admin('')
+#1 /var/www/vhosts/tactiksconcepts.com/httpdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/vhosts/tactiksconcepts.com/httpdocs/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/vhosts/tactiksconcepts.com/httpdocs/wp-admin/includes/menu.php(149): do_action('admin_menu', '')
+#4 /var/www/vhosts/tactiksconcepts.com/httpdocs/wp-admin/menu.php(286): require_once('/var/www/vhosts...')
+#5 /var/www/vhosts/tactiksconcepts.com/httpdocs/wp-admin/admin.php(140): require('/var/www/vhosts...')
+#6 {main}
+  thrown
+
+2018-05-15T12:40:12+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_real_escape_string() in /var/www/vhosts/tactiksconcepts.com/httpdocs/wp-content/themes/hourizon-core/functions/admin-interface.php:111
+Stack trace:
+#0 /var/www/vhosts/tactiksconcepts.com/httpdocs/wp-includes/class-wp-hook.php(286): woothemes_add_admin('')
+#1 /var/www/vhosts/tactiksconcepts.com/httpdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/vhosts/tactiksconcepts.com/httpdocs/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/vhosts/tactiksconcepts.com/httpdocs/wp-admin/includes/menu.php(149): do_action('admin_menu', '')
+#4 /var/www/vhosts/tactiksconcepts.com/httpdocs/wp-admin/menu.php(286): require_once('/var/www/vhosts...')
+#5 /var/www/vhosts/tactiksconcepts.com/httpdocs/wp-admin/admin.php(140): require('/var/www/vhosts...')
+#6 {main}
+  thrown
+

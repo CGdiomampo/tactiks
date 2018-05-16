@@ -1,0 +1,3 @@
+[13-Oct-2015 01:12:35 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/denalico/public_html/wp-content/plugins/hello.php on line 60
+[28-Apr-2016 18:59:32 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/denalico/public_html/wp-content/plugins/hello.php on line 60
+[30-Apr-2016 07:21:41 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/denalico/public_html/wp-content/plugins/hello.php on line 60
